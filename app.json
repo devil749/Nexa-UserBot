@@ -8,7 +8,7 @@
         "nexa"
     ],
     "website": "https://t.me/TheArjvps",
-    "repository": "https://github.com/ThePro-CoderZ/Nexa-Userbot",
+    "repository": "https://github.com/devil749/Nexa-Userbot",
     "success_url": "https://t.me/TheArjvpsChat",
     "env": {
         "APP_ID": {
