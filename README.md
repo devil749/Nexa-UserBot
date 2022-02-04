@@ -28,4 +28,4 @@ Read more about config vars at [Docs](https://nexaub.itz-fork.xyz/docs/get-start
 # About ❓
 [Nexa Userbot](https://github.com/ThePro-CoderZ/Nexa-Userbot) is one of my best projects. I made this userbot to introduce a userbot **without bot mode**
 # License
-This repository is license under [GPL-3 License](https://github.com/ThePro-CoderZ/Nexa-Userbot/blob/master/LICENSE)
+This repository is license under [GPL-3 License](https://github.com/devil749/Nexa-Userbot/blob/master/LICENSE)
